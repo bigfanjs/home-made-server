@@ -1,0 +1,24 @@
+1- express body parser.
+2- express cookie parser.
+3- scroll background when scroll.
+4- __dirname.
+5- CORS attack.
+6- Slack Playing A League.
+7- Vue.js
+8- Sails.js
+9- Scrum
+10- Bootstrap with React.
+11- install Spot diff Game.
+
+12- app-test set Proxy in package.json
+13- barer authorization.
+
+# New Archetecture
+1- Building Server Process.
+2- Building Client Process.
+    1- Creating Routing Logic.
+    2- Connecting To The Store.
+    3- Creating Components.
+    4- Creating The App Logic.
+    5- Design The App.
+3- Integrating The Two Sides. 

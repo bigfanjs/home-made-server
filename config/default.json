@@ -1,0 +1,13 @@
+{
+    "db": {
+        "uri": "mongodb://localhost:27017/testapp",
+        "opts": {
+          "useMongoClient": true
+        }
+    },
+    "fb-auth": {
+        "clientID": "766331086899371",
+        "clientSecret": "1a8e152d4c7ce29f5903c9bd3e794eb5"
+    },
+    "JWT_SECRET": "apiauth"
+}
